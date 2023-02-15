@@ -1,6 +1,4 @@
-# boilerplate-react
-
-## This project is my boilerplate
+# Template Next JS
 
 ## Technologies
 
